@@ -1,3 +1,5 @@
 p {
-  color: blue;
+  color: red;
+  width: 500px;
+  border: 1px solid black;
 }
